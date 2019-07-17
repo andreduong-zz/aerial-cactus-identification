@@ -74,7 +74,7 @@ In this section, we load the pre-trained model, freeze all layers except the top
 
 In this section, we write a Python script to test our model by making prediction on the first 10 images of the test set. Full Python script can be found [here](https://github.com/andreduong/aerial-cactus-identification/blob/master/model_testing.py).
 
-![test-10](cactus-pictures/test-10)
+![test-10](cactus-pictures/test-10.png)
 
 # Conclusion
 

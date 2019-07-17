@@ -1,6 +1,6 @@
 # Cactus Identification: A Walkthrough from CNN to Transfer Learning with Pre-Trained Model VGG16
 
-![header](pictures/cactus-header.png)
+![header](cactus-pictures/cactus-header.png)
 
 This project was my introduction to the world of Computer Vision using Deep Learning. In this write-up, I will do a walkthrough of the whole classifier making process, including:
 
